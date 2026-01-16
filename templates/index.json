@@ -105,7 +105,6 @@
         "full_width": true,
         "text_color": "#ffffff",
         "background_color": "#ffffff",
-        "background_image": "shopify://shop_images/Black_and_Pink_Bold_Typographic_Beauty_Cosmetics_Logo_2.png",
         "overlay_color": "#1c1d1d",
         "overlay_opacity": 30,
         "lazyload_images": true
