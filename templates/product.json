@@ -1,0 +1,909 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_new_WzDY3q": {
+          "type": "custom_new",
+          "disabled": true,
+          "settings": {
+            "code": "<div style=\"display:flex; align-items:center; font-size:14px;\">\n  <span>\n    <span style=\"color:#FFC107; font-size:16px;\">★★★★★</span>\n    4.8 / 5 (Excellent) (3728+ reviews)\n  </span>\n</div>"
+          }
+        },
+        "custom_new_AF4ADX": {
+          "type": "custom_new",
+          "settings": {
+            "code": "<div style=\"display:flex; align-items:center; font-size:14px;\">\n  <span>\n    <span style=\"color:#FFC107; font-size:16px;\">★★★★★</span>\n    4.8 / 5 (Excellent) (3728+ reviews)\n  </span>\n</div>"
+          }
+        },
+        "custom_DYq8YW": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<div style=\"display:flex; justify-content:flex-start; align-items:center; gap:8px; font-family:Arial, sans-serif; text-align:left;\">\n  \n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0943/3196/1671/files/stars-5-1_1.svg?v=1765583466\"\n    alt=\"5 Sterne Bewertung\"\n    style=\"height:16px; width:auto; display:block;\"\n    loading=\"lazy\"\n  >\n\n  <span style=\"font-size:14px;\">\n    <strong>4.8</strong> / 5 <span style=\"opacity:0.8;\">(Excellent)</span>\n  </span>\n\n</div>"
+          }
+        },
+        "social_proof_UhFJCF": {
+          "type": "social_proof",
+          "disabled": true,
+          "settings": {
+            "avatar": "shopify://shop_images/imgi_2_30.avif",
+            "primary_text": "<p><strong>Jennifer Aniston</strong> and <strong>115k+</strong> other women are wearing <strong>Lois & Franklin</strong></p>",
+            "link": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "text_after_price": "<p><strong>NEW YEAR SALE </strong></p>",
+            "text_color": "#e33333",
+            "text_size": 14
+          }
+        },
+        "info_item_XfKjBn": {
+          "type": "info_item",
+          "settings": {
+            "icon": "shopify://shop_images/fast-delivery.png",
+            "icon_alt": "Icon",
+            "text": "Next Day Shipping"
+          }
+        },
+        "info_item_g94reN": {
+          "type": "info_item",
+          "settings": {
+            "icon": "shopify://shop_images/UPS.avif",
+            "icon_alt": "Icon",
+            "text": "Free shipping by USPS"
+          }
+        },
+        "info_item_DX8wad": {
+          "type": "info_item",
+          "settings": {
+            "icon": "shopify://shop_images/return-box.png",
+            "icon_alt": "Icon",
+            "text": "30-Day worry-free return policy"
+          }
+        },
+        "custom_gEPByf": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<style>\n  /* Maison Helvetia - product info lijst (stabiel in Shopify HTML block) */\n  .mh-info { \n    font-family: Arial, sans-serif; \n    font-size: 15px; \n    color: #121212; \n    margin: 0; \n    padding: 0;\n  }\n\n  .mh-info__row{\n    display: flex;\n    align-items: flex-start;     /* voorkomt \"bug\" bij meer-regelige tekst */\n    gap: 10px;\n    margin: 6px 0;\n    line-height: 1.45;           /* NIET 1 */\n  }\n\n  .mh-info__icon{\n    width: 16px;\n    height: 16px;\n    object-fit: contain;\n    display: block;\n    flex-shrink: 0;\n    margin-top: 2px;             /* optisch uitlijnen met tekst */\n  }\n\n  .mh-info__text{\n    display: block;\n    margin: 0;\n    padding: 0;\n    word-break: break-word;\n  }\n\n  @media (max-width: 768px){\n    .mh-info { font-size: 16px; }\n    .mh-info__row { line-height: 1.5; }\n    .mh-info__icon { width: 18px; height: 18px; margin-top: 3px; }\n  }\n</style>\n\n<div class=\"mh-info\">\n  <div class=\"mh-info__row\">\n    <img class=\"mh-info__icon\"\n      src=\"https://cdn.shopify.com/s/files/1/0943/3196/1671/files/fast-delivery.png?v=1765580059\"\n      alt=\"Lieferung\" loading=\"lazy\">\n    <span class=\"mh-info__text\"><strong>Next Day Shipping</span>\n  </div>\n\n  <div class=\"mh-info__row\">\n    <img class=\"mh-info__icon\"\n      src=\"https://cdn.shopify.com/s/files/1/0943/3196/1671/files/USPS-Logo.png?v=1768395491\"\n      alt=\"Versand\" loading=\"lazy\">\n    <span class=\"mh-info__text\">Free shipping by USPS</span>\n  </div>\n\n  <div class=\"mh-info__row\">\n    <img class=\"mh-info__icon\"\n      src=\"https://cdn.shopify.com/s/files/1/0943/3196/1671/files/return-box.png?v=1765580053\"\n      alt=\"Rückgabe\" loading=\"lazy\">\n    <span class=\"mh-info__text\">30-Day worry-free return policy</span>\n  </div>\n</div>"
+          }
+        },
+        "size_chart": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "size-chart"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "stock_indicator_xXVKMA": {
+          "type": "stock_indicator",
+          "settings": {
+            "text_before": "Only",
+            "text_after": "in stock",
+            "default_stock": 7,
+            "min_stock": 5,
+            "max_stock": 9,
+            "icon_color": "#ffa500",
+            "text_color": "#000000"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "shipping_info_PEbUn9": {
+          "type": "shipping_info",
+          "settings": {
+            "days_after_today": 2,
+            "ships_text": "Ships by",
+            "default_date": "Sat, Jan 17",
+            "flag_image": "shopify://shop_images/1-ezgif.com-webp-to-png-converter.png",
+            "flag_alt": "Flag",
+            "free_text": "Free",
+            "shipping_text": "Shipping",
+            "background_color": "#f6f6f6",
+            "text_color": "#000000",
+            "circle_color": "#2a555a"
+          }
+        },
+        "trust_badge_4MtJHa": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify://shop_images/Schermafbeelding_2026-01-15_hf.png"
+          }
+        },
+        "sale_banner_kFzFUQ": {
+          "type": "sale_banner",
+          "settings": {
+            "title": "New Year SALE ENDS TODAY",
+            "subtitle": "UP TO 70% OFF",
+            "description": "Now is the time to shop your favourite items at irresistible prices. As long as stocks last!",
+            "background_color": "#f4f4f4",
+            "border_color": "#000000",
+            "title_color": "#c0392b",
+            "subtitle_color": "#000000",
+            "description_color": "#555555"
+          }
+        },
+        "custom_WFLnGQ": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<s-payment-icon type=\"paypal\" />\n<s-payment-icon type=\"apple-pay\" />\n<s-payment-icon type=\"mastercard\" />\n<s-payment-icon type=\"shop-pay\" />\n<s-payment-icon type=\"visa\" />\n<s-payment-icon type=\"amex\" />\n<s-payment-icon type=\"klarna\" />"
+          }
+        },
+        "custom_P9iGUa": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<!-- sections/new-year-sale.liquid -->\n<section class=\"new-year-sale\" style=\"border:1px solid #000; padding:15px; text-align:center; max-width:500px; margin:15px auto;\">\n  <p style=\"color:#C1440E; font-weight:600; margin:0; text-transform:uppercase; font-size:0.9em;\">NEW YEAR SALE ENDS TODAY</p>\n  <p style=\"font-weight:700; font-size:1.2em; margin:8px 0;\">UP TO 70% OFF</p>\n  <p style=\"color:#333; margin:0; font-size:0.85em;\">Now is the time to shop your favourite items at irresistible prices. As long as stocks last!</p>\n</section>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "tab_tmX3rN": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping and returns",
+            "content": "<p><strong>SHIPPING</strong></p><p>At Ellis & Porter, we offer fast free shipping with UPS.</p><p>You will also receive a Track & Trace code after we processed your order so that you can track your order with peace of mind.</p><p><strong>RETURNS</strong></p><p>We stand behind the quality and excellence of our products, and to demonstrate our confidence, we provide a 30-day money-back guarantee on every purchase.</p><p>If you're not completely satisfied, simply return your item within 30 days of receipt for a full refund.<br/></p>",
+            "page": ""
+          }
+        },
+        "tab_xnaahF": {
+          "type": "tab",
+          "settings": {
+            "title": "Secure Payments",
+            "content": "<p>Protection of your data is very important to us. We keep it confidential, never share it with others, and only use it for specific tasks before removing it. Our website uses<strong>SSL encryption </strong>to protect your data.<br/><br/><br/></p>",
+            "page": ""
+          }
+        },
+        "social_proof_aJz4QP": {
+          "type": "social_proof",
+          "settings": {
+            "avatar": "shopify://shop_images/JenniferAnistonHWoFFeb2012.jpg",
+            "primary_text": "<p><strong>Jennifer Aniston</strong> and <strong>115k+</strong> other women are<br/>wearing <strong>Lois & Franklin</strong></p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "custom_new_WzDY3q",
+        "custom_new_AF4ADX",
+        "custom_DYq8YW",
+        "social_proof_UhFJCF",
+        "price",
+        "info_item_XfKjBn",
+        "info_item_g94reN",
+        "info_item_DX8wad",
+        "custom_gEPByf",
+        "size_chart",
+        "variant_picker",
+        "stock_indicator_xXVKMA",
+        "buy_buttons",
+        "shipping_info_PEbUn9",
+        "trust_badge_4MtJHa",
+        "sale_banner_kFzFUQ",
+        "custom_WFLnGQ",
+        "custom_P9iGUa",
+        "description",
+        "separator",
+        "tab_tmX3rN",
+        "tab_xnaahF",
+        "social_proof_aJz4QP"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "TEMPORARY MEGA SALE",
+        "title": "New year sale!",
+        "text": "<p><br/>To celebrate its <strong>16th anniversary</strong>, Lois & Franklin is hosting its biggest New Year’s Sale ever, with discounts of up to 70% off.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/ChatGPT_Image_14_jan_2026_10_47_59AI.png",
+        "layout": "right",
+        "height": 750,
+        "framed": true,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Wit-bruin3_d267ab7e-a3cb-40d6-890c-b0e6faaf5d0d.png",
+        "image_mask": "none",
+        "image2": "shopify://shop_images/Se46f53da58814ee8a2d4b0db3c1d1a1bu.jpg",
+        "image2_mask": "none",
+        "subtitle": "Lois & Franklin",
+        "title": "For every occasion",
+        "text": "<p>Lois & Franklin offers the latest fashion for him and her for every occasion at fair prices.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6qcTh4": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_14_jan_2026_10_52_54.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Why Lois & franklin?",
+        "text": "<p><strong>Lois & Franklin</strong> is a family-run boutique in the heart of Boston.</p><p>Lois & Franklin began with a mother’s dream—25 years of late-night sewing, handpicked fabrics, and the belief that every woman deserves to feel truly seen. Little Franklin grew up in the middle of it all, watching her mother pour her heart into every stitch and every customer who walked through the door.</p><p>Now, as Lois steps back due to her health, Franklin is doing everything she can to carry that legacy forward. Every order helps keep their family’s dream alive and honors the devotion that built this boutique from the ground up.</p><p>Thank you for supporting a small family business built with love, resilience, and heart. 🤍✨</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "get up to 20% extra discounts when you buy more",
+        "related_count": 5,
+        "products_per_row": 5
+      }
+    },
+    "advanced_content_ngB74b": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_MXhpJ7": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\" section-template--25572040245513__ss_feature_1_pro_FJMp6T-padding center-on-desktop-template--25572040245513__ss_feature_1_pro_FJMp6T \" style=\" background-color:#ffffff; --pt: 27px; --pt-desktop: 36px; --pb: 27px; --pb-desktop: 36px; --swiper-pagination-color: #000000; --swiper-pagination-bg-color: ; --swiper-navigation-color: ; \"> <style> .desktop-only-template--25572040245513__ss_feature_1_pro_FJMp6T { display: none; } @media screen and (min-width: 750px) { .desktop-only-template--25572040245513__ss_feature_1_pro_FJMp6T { display: block; } .mobile-only-template--25572040245513__ss_feature_1_pro_FJMp6T { display: none; } } </style> <div class=\" mobile-only-template--25572040245513__ss_feature_1_pro_FJMp6T page-width \"> <style> .swiper.swiper-template--25572040245513__ss_feature_1_pro_FJMp6T { --swiper-pagination-bullet-inactive-color: #D9D9D9; --swiper-pagination-bullet-inactive-opacity: 1; --swiper-pagination-bullet-horizontal-gap: 5px; --swiper-pagination-bottom: 0px; padding-bottom: 24px; } .swiper-template--25572040245513__ss_feature_1_pro_FJMp6T .swiper-slide { position: relative; height: auto; } .swiper-template--25572040245513__ss_feature_1_pro_FJMp6T img { width: 100%; height: 100%; object-fit: cover; } .text-content-template--25572040245513__ss_feature_1_pro_FJMp6T { line-height: 1.3; flex-grow: 1; } .text-content-template--25572040245513__ss_feature_1_pro_FJMp6T a { color: #000000!important; } .swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T, .swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T svg { height: var(--icon-size)!important; width: var(--icon-size)!important; object-fit: contain; margin: 0px auto 15px; color: #000000; } @media screen and (min-width: 750px) { .swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T, .swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T svg { } .text-content-template--25572040245513__ss_feature_1_pro_FJMp6T { } } </style> <div class=\"swiper swiper-template--25572040245513__ss_feature_1_pro_FJMp6T swiper-initialized swiper-horizontal swiper-backface-hidden\"> <div class=\"swiper-wrapper\" id=\"swiper-wrapper-9f1018167905ad894\" aria-live=\"off\" style=\"transition-duration: 0ms; transform: translate3d(-988px, 0px, 0px);\"> <div class=\"swiper-slide swiper-slide-next\" style=\"--icon-size: 30px; width: 494px;\" data-swiper-slide-index=\"1\" role=\"group\" aria-label=\"2 / 3\"> <div class=\"swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 25 2 C 12.309534 2 2 12.309534 2 25 C 2 37.690466 12.309534 48 25 48 C 32.287796 48 38.785186 44.597914 43 39.300781 L 43 47 A 1.0001 1.0001 0 1 0 45 47 L 45 36 L 43.490234 36 L 43.390625 36 L 34 36 A 1.0001 1.0001 0 1 0 34 38 L 41.480469 38 C 37.635193 42.869289 31.692686 46 25 46 C 13.390466 46 4 36.609534 4 25 C 4 13.390466 13.390466 4 25 4 C 36.609534 4 46 13.390466 46 25 A 1.0001 1.0001 0 1 0 48 25 C 48 12.309534 37.690466 2 25 2 z M 24.984375 8.9863281 A 1.0001 1.0001 0 0 0 24 10 L 24 22.175781 A 3 3 0 0 0 25 28 A 3 3 0 0 0 27.826172 26 L 36 26 A 1.0001 1.0001 0 1 0 36 24 L 27.828125 24 A 3 3 0 0 0 26 22.171875 L 26 10 A 1.0001 1.0001 0 0 0 24.984375 8.9863281 z\"></path></svg> </div> <div class=\"text-content-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide-title-template--25572040245513__ss_feature_1_pro_FJMp6T\" style=\"color: rgb(0, 0, 0); font-size: 15px; margin-bottom: 8px; height: auto;\"> <p>30-Day Return Guarantee</p> </div> <div style=\" color: #000000!important; font-size: 13px; margin-bottom: 0px; max-width: 570px; margin-left: auto; margin-right: auto; \"> <p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience.</p> </div> </div> </div><div class=\"swiper-slide swiper-slide-prev\" style=\"--icon-size: 30px; width: 494px;\" data-swiper-slide-index=\"2\" role=\"group\" aria-label=\"3 / 3\"> <div class=\"swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 7 9 C 4.2504839 9 2 11.250484 2 14 L 2 36 C 2 38.749516 4.2504839 41 7 41 L 25 41 L 29.636719 41 C 29.389719 40.366 29.166797 39.699 28.966797 39 L 25 39 L 7 39 C 5.3315161 39 4 37.668484 4 36 L 4 21 L 46 21 L 46 24 L 46 27.859375 C 46.562 28.091375 47.21 28.321922 48 28.544922 L 48 24 L 48 14 C 48 11.250484 45.749516 9 43 9 L 7 9 z M 7 11 L 43 11 C 44.668484 11 46 12.331516 46 14 L 46 16 L 4 16 L 4 14 C 4 12.331516 5.3315161 11 7 11 z M 9 24 L 9 26 L 25 26 L 25 24 L 9 24 z M 40 27.900391 C 38.5 27.900391 37.500781 28.4 36.300781 29 C 35.100781 29.6 33.600781 30.300391 30.800781 30.900391 L 30 31.099609 L 30 31.900391 C 30 44.900391 39.2 49.600781 39.5 49.800781 L 40 50 L 40.5 49.800781 C 40.9 49.600781 50 44.500391 50 31.900391 L 50 31.099609 L 49.199219 30.900391 C 46.399219 30.300391 44.899219 29.6 43.699219 29 C 42.499219 28.4 41.5 27.900391 40 27.900391 z M 40 29.900391 C 41.1 29.900391 41.700781 30.200781 42.800781 30.800781 C 44.000781 31.300781 45.5 32.099219 48 32.699219 C 47.7 41.999219 41.7 46.599219 40 47.699219 C 38.2 46.699219 32.3 42.399219 32 32.699219 C 34.6 32.099219 36.099219 31.300781 37.199219 30.800781 C 38.299219 30.200781 38.9 29.900391 40 29.900391 z\"></path></svg> </div> <div class=\"text-content-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide-title-template--25572040245513__ss_feature_1_pro_FJMp6T\" style=\"color: rgb(0, 0, 0); font-size: 15px; margin-bottom: 8px; height: auto;\"> <p>100% Secure Payment</p> </div> <div style=\" color: #000000!important; font-size: 13px; margin-bottom: 0px; max-width: 570px; margin-left: auto; margin-right: auto; \"> <p>We offer you a variety of secure payment options. Pay easily and enjoy a safe shopping experience.</p> </div> </div> </div><div class=\"swiper-slide swiper-slide-active\" style=\"--icon-size: 30px; width: 494px;\" data-swiper-slide-index=\"0\" role=\"group\" aria-label=\"1 / 3\"> <div class=\"swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 0 8 L 0 10 L 28.09375 10 C 28.492188 10 29 10.507813 29 10.90625 L 29 38 L 18.90625 38 C 18.429688 35.164063 15.964844 33 13 33 C 10.035156 33 7.570313 35.164063 7.09375 38 L 3 38 C 2.445313 38 2 37.554688 2 37 L 2 28 L 0 28 L 0 37 C 0 38.644531 1.355469 40 3 40 L 7.09375 40 C 7.570313 42.835938 10.035156 45 13 45 C 15.964844 45 18.429688 42.835938 18.90625 40 L 34.09375 40 C 34.570313 42.835938 37.035156 45 40 45 C 42.964844 45 45.429688 42.835938 45.90625 40 L 47 40 C 47.832031 40 48.5625 39.625 49.09375 39.09375 C 49.625 38.5625 50 37.832031 50 37 L 50 27.40625 C 50 26.28125 49.570313 25.25 49.1875 24.46875 C 48.804688 23.6875 48.40625 23.125 48.40625 23.125 L 48.40625 23.09375 L 44.3125 17.59375 L 44.28125 17.59375 L 44.28125 17.5625 C 43.394531 16.453125 41.972656 15 40 15 L 32 15 C 31.640625 15 31.3125 15.066406 31 15.1875 L 31 10.90625 C 31 9.304688 29.695313 8 28.09375 8 Z M 0 12 L 0 14 L 18 14 L 18 12 Z M 0 16 L 0 18 L 15 18 L 15 16 Z M 32 17 L 36 17 L 36 26 C 36 26.832031 36.375 27.5625 36.90625 28.09375 C 37.4375 28.625 38.167969 29 39 29 L 48 29 L 48 37 C 48 37.167969 47.875 37.4375 47.65625 37.65625 C 47.4375 37.875 47.167969 38 47 38 L 45.90625 38 C 45.429688 35.164063 42.964844 33 40 33 C 37.035156 33 34.570313 35.164063 34.09375 38 L 31 38 L 31 18 C 31 17.832031 31.125 17.5625 31.34375 17.34375 C 31.5625 17.125 31.832031 17 32 17 Z M 38 17 L 40 17 C 40.824219 17 41.972656 17.925781 42.6875 18.8125 L 46.78125 24.28125 L 46.8125 24.3125 C 46.832031 24.339844 47.101563 24.722656 47.40625 25.34375 C 47.660156 25.859375 47.792969 26.472656 47.875 27 L 39 27 C 38.832031 27 38.5625 26.875 38.34375 26.65625 C 38.125 26.4375 38 26.167969 38 26 Z M 0 20 L 0 22 L 12 22 L 12 20 Z M 0 24 L 0 26 L 9 26 L 9 24 Z M 13 35 C 15.222656 35 17 36.777344 17 39 C 17 41.222656 15.222656 43 13 43 C 10.777344 43 9 41.222656 9 39 C 9 36.777344 10.777344 35 13 35 Z M 40 35 C 42.222656 35 44 36.777344 44 39 C 44 41.222656 42.222656 43 40 43 C 37.777344 43 36 41.222656 36 39 C 36 36.777344 37.777344 35 40 35 Z\"></path></svg> </div> <div class=\"text-content-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide-title-template--25572040245513__ss_feature_1_pro_FJMp6T\" style=\"color: rgb(0, 0, 0); font-size: 15px; margin-bottom: 8px; height: auto;\"> <p>Free Shipping</p> </div> <div style=\" color: #000000!important; font-size: 13px; margin-bottom: 0px; max-width: 570px; margin-left: auto; margin-right: auto; \"> <p>We offer Free Shipping for maximum customer comfort. Your satisfaction is important to us, which is why we offer smooth and free delivery.</p> </div> </div> </div></div> <div class=\"swiper-pagination swiper-pagination-template--25572040245513__ss_feature_1_pro_FJMp6T swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal\"><span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 1\" aria-current=\"true\"></span><span class=\"swiper-pagination-bullet\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 2\"></span><span class=\"swiper-pagination-bullet\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 3\"></span></div> <span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span><span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span></div> </div> <div class=\" desktop-only-template--25572040245513__ss_feature_1_pro_FJMp6T page-width \"> <style> .text-and-icons-grid-template--25572040245513__ss_feature_1_pro_FJMp6T { display: grid; grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 30px; } @media screen and (min-width: 750px) { .text-and-icons-grid-template--25572040245513__ss_feature_1_pro_FJMp6T { grid-template-columns: repeat(3, minmax(0, 1fr)); } } @media screen and (min-width: 1024px) { .text-and-icons-grid-template--25572040245513__ss_feature_1_pro_FJMp6T { grid-template-columns: repeat(3, minmax(0, 1fr)); } } </style> <div class=\"text-and-icons-grid-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide\" style=\"--icon-size: 30px;\"> <div class=\"swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 0 8 L 0 10 L 28.09375 10 C 28.492188 10 29 10.507813 29 10.90625 L 29 38 L 18.90625 38 C 18.429688 35.164063 15.964844 33 13 33 C 10.035156 33 7.570313 35.164063 7.09375 38 L 3 38 C 2.445313 38 2 37.554688 2 37 L 2 28 L 0 28 L 0 37 C 0 38.644531 1.355469 40 3 40 L 7.09375 40 C 7.570313 42.835938 10.035156 45 13 45 C 15.964844 45 18.429688 42.835938 18.90625 40 L 34.09375 40 C 34.570313 42.835938 37.035156 45 40 45 C 42.964844 45 45.429688 42.835938 45.90625 40 L 47 40 C 47.832031 40 48.5625 39.625 49.09375 39.09375 C 49.625 38.5625 50 37.832031 50 37 L 50 27.40625 C 50 26.28125 49.570313 25.25 49.1875 24.46875 C 48.804688 23.6875 48.40625 23.125 48.40625 23.125 L 48.40625 23.09375 L 44.3125 17.59375 L 44.28125 17.59375 L 44.28125 17.5625 C 43.394531 16.453125 41.972656 15 40 15 L 32 15 C 31.640625 15 31.3125 15.066406 31 15.1875 L 31 10.90625 C 31 9.304688 29.695313 8 28.09375 8 Z M 0 12 L 0 14 L 18 14 L 18 12 Z M 0 16 L 0 18 L 15 18 L 15 16 Z M 32 17 L 36 17 L 36 26 C 36 26.832031 36.375 27.5625 36.90625 28.09375 C 37.4375 28.625 38.167969 29 39 29 L 48 29 L 48 37 C 48 37.167969 47.875 37.4375 47.65625 37.65625 C 47.4375 37.875 47.167969 38 47 38 L 45.90625 38 C 45.429688 35.164063 42.964844 33 40 33 C 37.035156 33 34.570313 35.164063 34.09375 38 L 31 38 L 31 18 C 31 17.832031 31.125 17.5625 31.34375 17.34375 C 31.5625 17.125 31.832031 17 32 17 Z M 38 17 L 40 17 C 40.824219 17 41.972656 17.925781 42.6875 18.8125 L 46.78125 24.28125 L 46.8125 24.3125 C 46.832031 24.339844 47.101563 24.722656 47.40625 25.34375 C 47.660156 25.859375 47.792969 26.472656 47.875 27 L 39 27 C 38.832031 27 38.5625 26.875 38.34375 26.65625 C 38.125 26.4375 38 26.167969 38 26 Z M 0 20 L 0 22 L 12 22 L 12 20 Z M 0 24 L 0 26 L 9 26 L 9 24 Z M 13 35 C 15.222656 35 17 36.777344 17 39 C 17 41.222656 15.222656 43 13 43 C 10.777344 43 9 41.222656 9 39 C 9 36.777344 10.777344 35 13 35 Z M 40 35 C 42.222656 35 44 36.777344 44 39 C 44 41.222656 42.222656 43 40 43 C 37.777344 43 36 41.222656 36 39 C 36 36.777344 37.777344 35 40 35 Z\"></path></svg> </div> <div class=\"text-content-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide-title-template--25572040245513__ss_feature_1_pro_FJMp6T\" style=\"color: rgb(0, 0, 0); font-size: 15px; margin-bottom: 8px; height: auto;\"> <p>Free Shipping</p> </div> <div style=\" color: #000000!important; font-size: 13px; margin-bottom: 0px; max-width: 570px; margin-left: auto; margin-right: auto; \"> <p>We offer Free Shipping for maximum customer comfort. Your satisfaction is important to us, which is why we offer smooth and free delivery.</p> </div> </div> </div> <div class=\"swiper-slide\" style=\"--icon-size: 30px;\"> <div class=\"swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 25 2 C 12.309534 2 2 12.309534 2 25 C 2 37.690466 12.309534 48 25 48 C 32.287796 48 38.785186 44.597914 43 39.300781 L 43 47 A 1.0001 1.0001 0 1 0 45 47 L 45 36 L 43.490234 36 L 43.390625 36 L 34 36 A 1.0001 1.0001 0 1 0 34 38 L 41.480469 38 C 37.635193 42.869289 31.692686 46 25 46 C 13.390466 46 4 36.609534 4 25 C 4 13.390466 13.390466 4 25 4 C 36.609534 4 46 13.390466 46 25 A 1.0001 1.0001 0 1 0 48 25 C 48 12.309534 37.690466 2 25 2 z M 24.984375 8.9863281 A 1.0001 1.0001 0 0 0 24 10 L 24 22.175781 A 3 3 0 0 0 25 28 A 3 3 0 0 0 27.826172 26 L 36 26 A 1.0001 1.0001 0 1 0 36 24 L 27.828125 24 A 3 3 0 0 0 26 22.171875 L 26 10 A 1.0001 1.0001 0 0 0 24.984375 8.9863281 z\"></path></svg> </div> <div class=\"text-content-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide-title-template--25572040245513__ss_feature_1_pro_FJMp6T\" style=\"color: rgb(0, 0, 0); font-size: 15px; margin-bottom: 8px; height: auto;\"> <p>30-Day Return Guarantee</p> </div> <div style=\" color: #000000!important; font-size: 13px; margin-bottom: 0px; max-width: 570px; margin-left: auto; margin-right: auto; \"> <p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience.</p> </div> </div> </div> <div class=\"swiper-slide\" style=\"--icon-size: 30px;\"> <div class=\"swiper-slide-image-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 7 9 C 4.2504839 9 2 11.250484 2 14 L 2 36 C 2 38.749516 4.2504839 41 7 41 L 25 41 L 29.636719 41 C 29.389719 40.366 29.166797 39.699 28.966797 39 L 25 39 L 7 39 C 5.3315161 39 4 37.668484 4 36 L 4 21 L 46 21 L 46 24 L 46 27.859375 C 46.562 28.091375 47.21 28.321922 48 28.544922 L 48 24 L 48 14 C 48 11.250484 45.749516 9 43 9 L 7 9 z M 7 11 L 43 11 C 44.668484 11 46 12.331516 46 14 L 46 16 L 4 16 L 4 14 C 4 12.331516 5.3315161 11 7 11 z M 9 24 L 9 26 L 25 26 L 25 24 L 9 24 z M 40 27.900391 C 38.5 27.900391 37.500781 28.4 36.300781 29 C 35.100781 29.6 33.600781 30.300391 30.800781 30.900391 L 30 31.099609 L 30 31.900391 C 30 44.900391 39.2 49.600781 39.5 49.800781 L 40 50 L 40.5 49.800781 C 40.9 49.600781 50 44.500391 50 31.900391 L 50 31.099609 L 49.199219 30.900391 C 46.399219 30.300391 44.899219 29.6 43.699219 29 C 42.499219 28.4 41.5 27.900391 40 27.900391 z M 40 29.900391 C 41.1 29.900391 41.700781 30.200781 42.800781 30.800781 C 44.000781 31.300781 45.5 32.099219 48 32.699219 C 47.7 41.999219 41.7 46.599219 40 47.699219 C 38.2 46.699219 32.3 42.399219 32 32.699219 C 34.6 32.099219 36.099219 31.300781 37.199219 30.800781 C 38.299219 30.200781 38.9 29.900391 40 29.900391 z\"></path></svg> </div> <div class=\"text-content-template--25572040245513__ss_feature_1_pro_FJMp6T\"> <div class=\"swiper-slide-title-template--25572040245513__ss_feature_1_pro_FJMp6T\" style=\"color: rgb(0, 0, 0); font-size: 15px; margin-bottom: 8px; height: auto;\"> <p>100% Secure Payment</p> </div> <div style=\" color: #000000!important; font-size: 13px; margin-bottom: 0px; max-width: 570px; margin-left: auto; margin-right: auto; \"> <p>We offer you a variety of secure payment options. Pay easily and enjoy a safe shopping experience.</p> </div> </div> </div> </div> </div> </div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_MXhpJ7"
+      ],
+      "disabled": true,
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "ss_testimonial_33_FYyrFB": {
+      "type": "ss-testimonial-33",
+      "blocks": {
+        "heading_VyVHm6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Reviews</p>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 48,
+            "heading_size_mobile": 32,
+            "heading_height": 130,
+            "heading_color": "#121212"
+          }
+        },
+        "text_MPDbrg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What do our customers say?</p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 22,
+            "text_size_mobile": 16,
+            "text_height": 150,
+            "text_mt": 10,
+            "text_mt_mobile": 10,
+            "text_color": "#121212"
+          }
+        },
+        "rating_BNHxyY": {
+          "type": "rating",
+          "settings": {
+            "rating_text": "<p>Rated 4.8/5</p>",
+            "rating_custom": false,
+            "rating_font": "josefin_sans_n4",
+            "rating_size": 14,
+            "rating_size_mobile": 13,
+            "rating_height": 130,
+            "rating_mt": 10,
+            "rating_mt_mobile": 10,
+            "stars_count": 4.5,
+            "stars_size": 18,
+            "stars_size_mobile": 18,
+            "rating_color": "#121212",
+            "stars_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_bg_half_color": "#dddddd"
+          }
+        },
+        "testimonial_xf4TAm": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>I ordered from <strong>Lois & Franklin</strong> and I’m very satisfied. The quality is excellent and the delivery was fast. Highly recommended.</p>",
+            "author": "Vera Harris",
+            "date": "Posted 1 day ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_GhckVn": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Very positive experience with <strong>Lois & Franklin</strong>. Friendly customer service and the product matches the description perfectly.<br/><br/><br/><br/></p>",
+            "author": "Florence Clark",
+            "date": "Posted 3 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_8bzcxx": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Top service from <strong>Lois & Franklin</strong>. You can immediately tell it’s a trustworthy and professional boutique. Would happily order again.</p>",
+            "author": "Ethel Thompson",
+            "date": "Posted 10 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_37GWcr": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>My order from Lois & Franklin went smoothly. Clear communication, fast delivery, and a fair return policy.<br/><br/></p>",
+            "author": "Edna Smith",
+            "date": "Posted 15 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_N9CbNb": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Beautiful design and really comfortable to wear.<strong> Lois & Franklin</strong> makes you feel like a valued customer.<br/><br/></p>",
+            "author": "Agnes Brown",
+            "date": "Posted 23 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_fPLRQn": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>I enjoy shopping at Lois & Franklin. The products feel high-quality, and the entire ordering process is very professional.<br/><br/></p>",
+            "author": "Hazel Anderson",
+            "date": "Posted 32 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_YnM3wG": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Very beautiful product and carefully packaged.<strong> Lois & Franklin</strong> gives a very trustworthy impression.<br/><br/></p>",
+            "author": "Esther Taylor",
+            "date": "Posted 45 days ago",
+            "stars_count": 5
+          }
+        },
+        "button_zkYNLh": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button": "Read more",
+            "button_url": "",
+            "button_custom": false,
+            "button_font": "josefin_sans_n4",
+            "button_size": 16,
+            "button_size_mobile": 16,
+            "button_height": 100,
+            "button_padding_vertical": 14,
+            "button_padding_vertical_mobile": 14,
+            "button_padding_horizontal": 24,
+            "button_padding_horizontal_mobile": 24,
+            "button_radius": 4,
+            "button_border_thickness": 1,
+            "button_mt": 30,
+            "button_mt_mobile": 30,
+            "button_style": "outline",
+            "button_align": "center",
+            "button_align_mobile": "center",
+            "button_color": "#121212",
+            "button_hover_color": "#ffffff",
+            "button_bg_color": "#ffffff",
+            "button_bg_hover_color": "#121212",
+            "button_border_color": "#121212",
+            "button_border_hover_color": "#121212"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VyVHm6",
+        "text_MPDbrg",
+        "rating_BNHxyY",
+        "testimonial_xf4TAm",
+        "testimonial_GhckVn",
+        "testimonial_8bzcxx",
+        "testimonial_37GWcr",
+        "testimonial_N9CbNb",
+        "testimonial_fPLRQn",
+        "testimonial_YnM3wG",
+        "button_zkYNLh"
+      ],
+      "disabled": true,
+      "name": "SS - Testimonials #33",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "slider_view": 3.5,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 0,
+        "slider_gap_mobile": 0,
+        "slider_mt": 32,
+        "slider_mt_mobile": 40,
+        "autoplay": true,
+        "autoplay_delay": 4,
+        "slide_padding_horizontal": 30,
+        "slide_padding_horizontal_mobile": 24,
+        "slide_padding_vertical": 30,
+        "slide_padding_vertical_mobile": 24,
+        "slide_radius": 10,
+        "slide_border_thickness": 0,
+        "slide_shadow": true,
+        "uniform_slide_height": true,
+        "slide_content_align": "left",
+        "slide_content_align_mobile": "left",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 14,
+        "text_height": 150,
+        "verify": "Verified buyer",
+        "verify_custom": false,
+        "verify_font": "josefin_sans_n4",
+        "verify_size": 14,
+        "verify_size_mobile": 14,
+        "verify_height": 130,
+        "verify_mt": 10,
+        "verify_mt_mobile": 10,
+        "verify_icon_size": 20,
+        "verify_icon_size_mobile": 20,
+        "verify_icon": true,
+        "author_image_size": 50,
+        "author_image_size_mobile": 50,
+        "author_image_radius": 100,
+        "author_image_border_thickness": 0,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 10,
+        "author_mt_mobile": 10,
+        "date_custom": false,
+        "date_font": "josefin_sans_n4",
+        "date_size": 10,
+        "date_size_mobile": 10,
+        "date_height": 130,
+        "date_mt": 4,
+        "date_mt_mobile": 4,
+        "slide_stars_size": 18,
+        "slide_stars_size_mobile": 18,
+        "arrow_size": 48,
+        "arrow_size_mobile": 38,
+        "arrow_icon_size": 10,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "text_color": "#121212",
+        "verify_icon_color": "#cecece",
+        "verify_color": "#121212",
+        "author_image_border_color": "#121212",
+        "author_color": "#121212",
+        "date_color": "#121212",
+        "slide_stars_color": "#ffffff",
+        "slide_stars_bg_color": "#00b67a",
+        "slide_stars_bg_half_color": "#dddddd",
+        "slide_bg_color": "#ffffff",
+        "slide_border_color": "#121212",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#f5f5f5",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "background_color": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(176, 247, 147, 1) 150%)",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "features_section_fgnL7P": {
+      "type": "features-section",
+      "blocks": {
+        "feature_item_bH8Y3Q": {
+          "type": "feature_item",
+          "settings": {
+            "icon_svg": "",
+            "icon_image": "shopify://shop_images/30d.webp",
+            "icon_alt": "Shipping",
+            "title": "30 Day Money Back Guarantee",
+            "description": "We offer you a variety of secure payment options. Pay easily and enjoy a safe shopping experience."
+          }
+        },
+        "feature_item_hr6Ugn": {
+          "type": "feature_item",
+          "settings": {
+            "icon_svg": "",
+            "icon_image": "shopify://shop_images/UPS.avif",
+            "icon_alt": "Return",
+            "title": "<p>30-Day Return Guarantee</p>",
+            "description": "<p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience.</p>"
+          }
+        },
+        "feature_item_qMMrVX": {
+          "type": "feature_item",
+          "settings": {
+            "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 50 50\" width=\"50px\" height=\"50px\" fill=\"currentColor\"><path d=\"M 7 9 C 4.2504839 9 2 11.250484 2 14 L 2 36 C 2 38.749516 4.2504839 41 7 41 L 25 41 L 29.636719 41 C 29.389719 40.366 29.166797 39.699 28.966797 39 L 25 39 L 7 39 C 5.3315161 39 4 37.668484 4 36 L 4 21 L 46 21 L 46 24 L 46 27.859375 C 46.562 28.091375 47.21 28.321922 48 28.544922 L 48 24 L 48 14 C 48 11.250484 45.749516 9 43 9 L 7 9 z M 7 11 L 43 11 C 44.668484 11 46 12.331516 46 14 L 46 16 L 4 16 L 4 14 C 4 12.331516 5.3315161 11 7 11 z M 9 24 L 9 26 L 25 26 L 25 24 L 9 24 z M 40 27.900391 C 38.5 27.900391 37.500781 28.4 36.300781 29 C 35.100781 29.6 33.600781 30.300391 30.800781 30.900391 L 30 31.099609 L 30 31.900391 C 30 44.900391 39.2 49.600781 39.5 49.800781 L 40 50 L 40.5 49.800781 C 40.9 49.600781 50 44.500391 50 31.900391 L 50 31.099609 L 49.199219 30.900391 C 46.399219 30.300391 44.899219 29.6 43.699219 29 C 42.499219 28.4 41.5 27.900391 40 27.900391 z M 40 29.900391 C 41.1 29.900391 41.700781 30.200781 42.800781 30.800781 C 44.000781 31.300781 45.5 32.099219 48 32.699219 C 47.7 41.999219 41.7 46.599219 40 47.699219 C 38.2 46.699219 32.3 42.399219 32 32.699219 C 34.6 32.099219 36.099219 31.300781 37.199219 30.800781 C 38.299219 30.200781 38.9 29.900391 40 29.900391 z\"></path></svg>",
+            "icon_alt": "Payment",
+            "title": "<p>100% Secure Payment</p>",
+            "description": "<p>We offer you a variety of secure payment options. Pay easily and enjoy a safe shopping experience.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_bH8Y3Q",
+        "feature_item_hr6Ugn",
+        "feature_item_qMMrVX"
+      ],
+      "name": "Features Section",
+      "settings": {
+        "background_color": "#ffffff",
+        "padding_top_mobile": 27,
+        "padding_top_desktop": 36,
+        "padding_bottom_mobile": 27,
+        "padding_bottom_desktop": 36,
+        "title_color": "#000000",
+        "title_font_size": 15,
+        "title_margin_bottom": 8,
+        "text_color": "#000000",
+        "description_font_size": 13,
+        "description_max_width": 570,
+        "icon_size": 30,
+        "icon_color": "#000000",
+        "icon_margin_bottom": 20,
+        "columns_desktop": 3,
+        "grid_gap": 30,
+        "pagination_color": "#000000",
+        "pagination_inactive_color": "#d9d9d9",
+        "navigation_color": "#000000"
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "apps": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "faq_FmCBdR": {
+      "type": "faq",
+      "blocks": {
+        "question_CEzL34": {
+          "type": "question",
+          "settings": {
+            "title": "Is your clothing made with sustainability in mind?",
+            "text": "<p>We are committed to responsible fashion. Our products are crafted with high-quality materials, and we continuously explore <strong>eco-friendly</strong> practices to reduce our environmental impact.<br/><br/></p>"
+          }
+        },
+        "question_4HzaKn": {
+          "type": "question",
+          "settings": {
+            "title": "What if i'm unsure about sizing?",
+            "text": "<p>If you're unsure about the fit, <strong>we recommend choosing a size up.</strong> This will give you a more comfortable fit, and you can always return the item if needed. For questions, you can also always reach our customer service team.<br/><br/></p>"
+          }
+        },
+        "question_fFrVip": {
+          "type": "question",
+          "settings": {
+            "title": "How can I return my order?",
+            "text": "<p>Simply contact our customer service via our <strong>contact page</strong>. You will receive a reply with the return details within 24 hours.<br/><br/></p>"
+          }
+        },
+        "question_GCRPMa": {
+          "type": "question",
+          "settings": {
+            "title": "How can i track my order?",
+            "text": "<p>Once your order has been processed, you will immediately receive a confirmation e-mail with your personal tracking details, which you can enter on our <strong>tracking page</strong>. This way you can always easily track your order.<br/><br/></p>"
+          }
+        },
+        "question_Kwxd4U": {
+          "type": "question",
+          "settings": {
+            "title": "Is my payment secure?",
+            "text": "<p><strong>Yes, your payment is 100% secure.</strong> We use industry-standard SSL encryption to protect your information, ensuring a safe and reliable checkout process.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_CEzL34",
+        "question_4HzaKn",
+        "question_fFrVip",
+        "question_GCRPMa",
+        "question_Kwxd4U"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "ss_testimonials_2_xJyj8X": {
+      "type": "ss-testimonials-2",
+      "blocks": {
+        "testimonial_hmkCzh": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>I ordered from <strong>Lois & Franklin</strong> and I’m very satisfied. The quality is excellent and the delivery was fast. Highly recommended.</p>",
+            "image": "shopify://shop_images/imgi_2_32.avif",
+            "author": "Vera Harris",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_9rwKPB": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>Very positive experience with <strong>Lois & Franklin</strong>. Friendly customer service and the product matches the description perfectly.</p>",
+            "image": "shopify://shop_images/imgi_2_31.avif",
+            "author": "Florence Clark",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_YkdE9d": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>Top service from <strong>Lois & Franklin</strong>. You can immediately tell it’s a trustworthy and professional boutique. Would happily order again.</p>",
+            "image": "shopify://shop_images/975bae1c08b94e6dbae3d4b388d4da68.avif",
+            "author": "Ethel Thompson",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_p9AL8g": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>My order from Lois & Franklin went smoothly. Clear communication, fast delivery, and a fair return policy.</p>",
+            "image": "shopify://shop_images/imgi_2_30.avif",
+            "author": "Agnes Brown",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_qCa4wz": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>I enjoy shopping at Lois & Franklin. The products feel high-quality, and the entire ordering process is very professional.</p>",
+            "author": "Hazel Anderson",
+            "job_title": "Verified Costumer"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hmkCzh",
+        "testimonial_9rwKPB",
+        "testimonial_YkdE9d",
+        "testimonial_p9AL8g",
+        "testimonial_qCa4wz"
+      ],
+      "name": "SS - Testimonials #2",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 32,
+        "heading_size_mobile": 28,
+        "heading_height": 140,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_delay": 3,
+        "slider_gap": 24,
+        "slider_gap_mobile": 24,
+        "slider_mt": 32,
+        "slider_mt_mobile": 12,
+        "card_padding_horizontal": 32,
+        "card_padding_horizontal_mobile": 24,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 32,
+        "card_radius": 0,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_content_align": "center",
+        "card_content_align_mobile": "center",
+        "stars_size": 16,
+        "stars_size_mobile": 16,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 20,
+        "text_mt_mobile": 20,
+        "hide_image": false,
+        "image_size": 74,
+        "image_size_mobile": 74,
+        "image_mt": 20,
+        "image_mt_mobile": 20,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 16,
+        "author_size_mobile": 15,
+        "author_height": 130,
+        "author_mt": 20,
+        "author_mt_mobile": 20,
+        "job_title_custom": false,
+        "job_title_font": "josefin_sans_n4",
+        "job_title_size": 13,
+        "job_title_size_mobile": 12,
+        "job_title_height": 130,
+        "job_title_mt": 4,
+        "job_title_mt_mobile": 4,
+        "arrow_size": 48,
+        "arrow_size_mobile": 38,
+        "arrow_icon_size": 10,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "dots_size": 8,
+        "dots_size_mobile": 8,
+        "dots_mt": 32,
+        "dots_mt_mobile": 24,
+        "dots_show_desktop": true,
+        "dots_show_mobile": true,
+        "stars_color": "#000000",
+        "text_color": "#000000",
+        "author_color": "#000000",
+        "job_title_color": "#7b7b7b",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#f5f5f5",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "background-image-text",
+    "sub",
+    "text-and-image",
+    "text_and_image_6qcTh4",
+    "product-recommendations",
+    "advanced_content_ngB74b",
+    "ss_testimonial_33_FYyrFB",
+    "features_section_fgnL7P",
+    "recently-viewed",
+    "apps",
+    "faq_FmCBdR",
+    "ss_testimonials_2_xJyj8X",
+    "collection-return"
+  ]
+}

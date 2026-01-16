@@ -1,0 +1,507 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_iakHCn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zYWm6Q": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "NEW YEAR'S SALE\nSALE",
+            "title_size": 80,
+            "subheading": "Discounts you shouldn't miss up to 80% off!",
+            "link": "",
+            "link_text": "SHOP NOW",
+            "link_2": "shopify://collections/beliebt-bei-kunden",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ChatGPT_Image_14_jan_2026_10_47_59.png",
+            "image_mobile": "shopify://shop_images/Ontwerp_zonder_titel_41.png",
+            "parallax_direction": "left",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zYWm6Q"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Popular picks",
+        "home_featured_products": "schuhe-1",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_cEWAiU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Popular picks",
+        "home_featured_products": "taschen",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "countdown": {
+      "type": "countdown",
+      "blocks": {
+        "content": {
+          "type": "content",
+          "settings": {
+            "heading": "NEW YEAR SALE",
+            "heading_size": "h1",
+            "text": "<p><br/>To celebrate its <strong>16th anniversary</strong>, Maison Helvetia is hosting its biggest Christmas Sale ever this year with discounts of up to 70% off.<br/><br/></p>",
+            "content_alignment": "center"
+          }
+        },
+        "timer": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "04",
+            "day": "1",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "content",
+        "timer"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "hero",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_image": "shopify://shop_images/Black_and_Pink_Bold_Typographic_Beauty_Cosmetics_Logo_2.png",
+        "overlay_color": "#1c1d1d",
+        "overlay_opacity": 30,
+        "lazyload_images": true
+      }
+    },
+    "promo-grid-2": {
+      "type": "promo-grid",
+      "blocks": {
+        "sale_collection-1": {
+          "type": "sale_collection",
+          "disabled": true,
+          "settings": {
+            "sale_collection": "jacken-mantel-1",
+            "top_text": "Up To",
+            "middle_text": "50% off",
+            "bottom_text": "Jackets & Coats",
+            "width": "100",
+            "color_tint": "#ffffff",
+            "color_tint_opacity": 10,
+            "boxed": true,
+            "framed": false
+          }
+        },
+        "sale_collection-2": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "schuhe-1",
+            "top_text": "Up to",
+            "middle_text": "70% off",
+            "bottom_text": "Shoes",
+            "width": "50",
+            "color_tint": "#ffffff",
+            "color_tint_opacity": 6,
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "sale_collection-1",
+        "sale_collection-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 15,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo-grid-1": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Women",
+            "textarea": "",
+            "cta_text1": "Watch now",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "shopify://collections/jacken-mantel-1",
+            "image": "shopify://shop_images/O1CN01jhKrvX1yrVhbKFR2w__2218279856632-0-cib.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 700,
+            "text_size": 140,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#424d4e",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "advanced-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_gmrXBT": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_14_jan_2026_10_52_54.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Why Lois & franklin?",
+        "text": "<p><strong>Lois & Franklin</strong> is a family-run boutique in the heart of Boston.</p><p>Lois & Franklin began with a mother’s dream—25 years of late-night sewing, handpicked fabrics, and the belief that every woman deserves to feel truly seen. Little Franklin grew up in the middle of it all, watching her mother pour her heart into every stitch and every customer who walked through the door.</p><p>Now, as Lois steps back due to her health, Franklin is doing everything she can to carry that legacy forward. Every order helps keep their family’s dream alive and honors the devotion that built this boutique from the ground up.</p><p>Thank you for supporting a small family business built with love, resilience, and heart. 🤍✨</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ss_testimonial_33_eBHGBr": {
+      "type": "ss-testimonial-33",
+      "blocks": {
+        "heading_UwAxfT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Reviews</p>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 48,
+            "heading_size_mobile": 32,
+            "heading_height": 130,
+            "heading_color": "#121212"
+          }
+        },
+        "text_qcEX4Y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What do our customers say?</p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 22,
+            "text_size_mobile": 16,
+            "text_height": 150,
+            "text_mt": 10,
+            "text_mt_mobile": 10,
+            "text_color": "#121212"
+          }
+        },
+        "rating_m8AynT": {
+          "type": "rating",
+          "settings": {
+            "rating_text": "<p>Rated 4.8/5</p>",
+            "rating_custom": false,
+            "rating_font": "josefin_sans_n4",
+            "rating_size": 14,
+            "rating_size_mobile": 13,
+            "rating_height": 130,
+            "rating_mt": 10,
+            "rating_mt_mobile": 10,
+            "stars_count": 4.5,
+            "stars_size": 18,
+            "stars_size_mobile": 18,
+            "rating_color": "#121212",
+            "stars_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_bg_half_color": "#dddddd"
+          }
+        },
+        "testimonial_VWrB9i": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>I ordered from <strong>Lois & Franklin</strong> and I’m very satisfied. The quality is excellent and the delivery was fast. Highly recommended.</p>",
+            "author": "Vera Harris",
+            "date": "Posted 1 day ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_zPR4Ez": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Very positive experience with <strong>Lois & Franklin</strong>. Friendly customer service and the product matches the description perfectly.<br/><br/><br/><br/></p>",
+            "author": "Florence Clark",
+            "date": "Posted 3 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_Jt9kPk": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Top service from <strong>Lois & Franklin</strong>. You can immediately tell it’s a trustworthy and professional boutique. Would happily order again.</p>",
+            "author": "Ethel Thompson",
+            "date": "Posted 10 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_fGFweH": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>My order from Lois & Franklin went smoothly. Clear communication, fast delivery, and a fair return policy.<br/><br/></p>",
+            "author": "Edna Smith",
+            "date": "Posted 15 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_adiaQ7": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Beautiful design and really comfortable to wear.<strong> Lois & Franklin</strong> makes you feel like a valued customer.<br/><br/></p>",
+            "author": "Agnes Brown",
+            "date": "Posted 23 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_MXJbpX": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>I enjoy shopping at Lois & Franklin. The products feel high-quality, and the entire ordering process is very professional.<br/><br/></p>",
+            "author": "Hazel Anderson",
+            "date": "Posted 32 days ago",
+            "stars_count": 5
+          }
+        },
+        "testimonial_3EAymn": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br/>Very beautiful product and carefully packaged.<strong> Lois & Franklin</strong> gives a very trustworthy impression.<br/><br/></p>",
+            "author": "Esther Taylor",
+            "date": "Posted 45 days ago",
+            "stars_count": 5
+          }
+        },
+        "button_eNbgRb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button": "Read more",
+            "button_url": "",
+            "button_custom": false,
+            "button_font": "josefin_sans_n4",
+            "button_size": 16,
+            "button_size_mobile": 16,
+            "button_height": 100,
+            "button_padding_vertical": 14,
+            "button_padding_vertical_mobile": 14,
+            "button_padding_horizontal": 24,
+            "button_padding_horizontal_mobile": 24,
+            "button_radius": 4,
+            "button_border_thickness": 1,
+            "button_mt": 30,
+            "button_mt_mobile": 30,
+            "button_style": "outline",
+            "button_align": "center",
+            "button_align_mobile": "center",
+            "button_color": "#121212",
+            "button_hover_color": "#ffffff",
+            "button_bg_color": "#ffffff",
+            "button_bg_hover_color": "#121212",
+            "button_border_color": "#121212",
+            "button_border_hover_color": "#121212"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UwAxfT",
+        "text_qcEX4Y",
+        "rating_m8AynT",
+        "testimonial_VWrB9i",
+        "testimonial_zPR4Ez",
+        "testimonial_Jt9kPk",
+        "testimonial_fGFweH",
+        "testimonial_adiaQ7",
+        "testimonial_MXJbpX",
+        "testimonial_3EAymn",
+        "button_eNbgRb"
+      ],
+      "name": "SS - Testimonials #33",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "slider_view": 3.5,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 0,
+        "slider_gap_mobile": 0,
+        "slider_mt": 32,
+        "slider_mt_mobile": 40,
+        "autoplay": true,
+        "autoplay_delay": 4,
+        "slide_padding_horizontal": 30,
+        "slide_padding_horizontal_mobile": 24,
+        "slide_padding_vertical": 30,
+        "slide_padding_vertical_mobile": 24,
+        "slide_radius": 10,
+        "slide_border_thickness": 0,
+        "slide_shadow": true,
+        "uniform_slide_height": true,
+        "slide_content_align": "left",
+        "slide_content_align_mobile": "left",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 14,
+        "text_height": 150,
+        "verify": "Verified buyer",
+        "verify_custom": false,
+        "verify_font": "josefin_sans_n4",
+        "verify_size": 14,
+        "verify_size_mobile": 14,
+        "verify_height": 130,
+        "verify_mt": 10,
+        "verify_mt_mobile": 10,
+        "verify_icon_size": 20,
+        "verify_icon_size_mobile": 20,
+        "verify_icon": true,
+        "author_image_size": 50,
+        "author_image_size_mobile": 50,
+        "author_image_radius": 100,
+        "author_image_border_thickness": 0,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 10,
+        "author_mt_mobile": 10,
+        "date_custom": false,
+        "date_font": "josefin_sans_n4",
+        "date_size": 10,
+        "date_size_mobile": 10,
+        "date_height": 130,
+        "date_mt": 4,
+        "date_mt_mobile": 4,
+        "slide_stars_size": 18,
+        "slide_stars_size_mobile": 18,
+        "arrow_size": 48,
+        "arrow_size_mobile": 38,
+        "arrow_icon_size": 10,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "text_color": "#121212",
+        "verify_icon_color": "#cecece",
+        "verify_color": "#121212",
+        "author_image_border_color": "#121212",
+        "author_color": "#121212",
+        "date_color": "#121212",
+        "slide_stars_color": "#ffffff",
+        "slide_stars_bg_color": "#00b67a",
+        "slide_stars_bg_half_color": "#dddddd",
+        "slide_bg_color": "#ffffff",
+        "slide_border_color": "#121212",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#f5f5f5",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "background_color": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(176, 247, 147, 1) 150%)",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_iakHCn",
+    "featured-collection",
+    "featured_collection_cEWAiU",
+    "countdown",
+    "promo-grid-2",
+    "promo-grid-1",
+    "rich-text",
+    "text_and_image_gmrXBT",
+    "ss_testimonial_33_eBHGBr"
+  ]
+}
