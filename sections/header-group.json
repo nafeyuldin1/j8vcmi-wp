@@ -45,7 +45,6 @@
         "logo": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Miller_Brooks_1.png",
             "desktop_logo_width": 190,
             "mobile_logo_width": 120
           }
@@ -55,7 +54,7 @@
         "logo"
       ],
       "settings": {
-        "main_menu_link_list": "main-menu",
+        "main_menu_link_list": "hoofdmenu",
         "hover_menu": true,
         "mega_menu_images": true,
         "main_menu_alignment": "center-split",
