@@ -192,7 +192,7 @@
         "social_proof_aJz4QP": {
           "type": "social_proof",
           "settings": {
-            "avatar": "shopify://shop_images/JenniferAnistonHWoFFeb2012.jpg",
+            "avatar": "shopify://shop_images/JenniferAnistonHWoFFeb2012_1.jpg",
             "primary_text": "<p><strong>Jennifer Aniston</strong> and <strong>115k+</strong> other women are<br/>wearing <strong>Lois & Franklin</strong></p>",
             "link": ""
           }
@@ -245,7 +245,6 @@
         "text": "<p><br/>To celebrate its <strong>16th anniversary</strong>, Lois & Franklin is hosting its biggest New Year’s Sale ever, with discounts of up to 70% off.<br/><br/></p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify://shop_images/ChatGPT_Image_14_jan_2026_10_47_59AI.png",
         "layout": "right",
         "height": 750,
         "framed": true,
@@ -265,9 +264,7 @@
       "type": "text-and-image",
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Wit-bruin3_d267ab7e-a3cb-40d6-890c-b0e6faaf5d0d.png",
         "image_mask": "none",
-        "image2": "shopify://shop_images/Se46f53da58814ee8a2d4b0db3c1d1a1bu.jpg",
         "image2_mask": "none",
         "subtitle": "Lois & Franklin",
         "title": "For every occasion",
