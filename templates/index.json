@@ -389,6 +389,7 @@
         "testimonial_3EAymn",
         "button_eNbgRb"
       ],
+      "disabled": true,
       "name": "SS - Testimonials #33",
       "settings": {
         "content_align": "center",
@@ -490,6 +491,168 @@
         "section_radius": 0,
         "lazy": true
       }
+    },
+    "ss_testimonials_2_7WdEKP": {
+      "type": "ss-testimonials-2",
+      "blocks": {
+        "testimonial_RHbWHL": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>I ordered from <strong>Lois & Franklin</strong> and I’m very satisfied. The quality is excellent and the delivery was fast. Highly recommended.</p>",
+            "image": "shopify://shop_images/imgi_2_32.avif",
+            "author": "Vera Harris",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_zCeP9m": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>Very positive experience with <strong>Lois & Franklin</strong>. Friendly customer service and the product matches the description perfectly.</p>",
+            "image": "shopify://shop_images/imgi_2_31.avif",
+            "author": "Florence Clark",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_pWzCWa": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>Top service from <strong>Lois & Franklin</strong>. You can immediately tell it’s a trustworthy and professional boutique. Would happily order again.</p>",
+            "image": "shopify://shop_images/975bae1c08b94e6dbae3d4b388d4da68.avif",
+            "author": "Ethel Thompson",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_FyVYfE": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>My order from Lois & Franklin went smoothly. Clear communication, fast delivery, and a fair return policy.</p>",
+            "image": "shopify://shop_images/imgi_2_30.avif",
+            "author": "Agnes Brown",
+            "job_title": "Verified Costumer"
+          }
+        },
+        "testimonial_483kJL": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>I enjoy shopping at Lois & Franklin. The products feel high-quality, and the entire ordering process is very professional.</p>",
+            "author": "Hazel Anderson",
+            "job_title": "Verified Costumer"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RHbWHL",
+        "testimonial_zCeP9m",
+        "testimonial_pWzCWa",
+        "testimonial_FyVYfE",
+        "testimonial_483kJL"
+      ],
+      "name": "SS - Testimonials #2",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 32,
+        "heading_size_mobile": 28,
+        "heading_height": 140,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_delay": 3,
+        "slider_gap": 24,
+        "slider_gap_mobile": 24,
+        "slider_mt": 32,
+        "slider_mt_mobile": 12,
+        "card_padding_horizontal": 32,
+        "card_padding_horizontal_mobile": 24,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 32,
+        "card_radius": 0,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_content_align": "center",
+        "card_content_align_mobile": "center",
+        "stars_size": 16,
+        "stars_size_mobile": 16,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 20,
+        "text_mt_mobile": 20,
+        "hide_image": false,
+        "image_size": 74,
+        "image_size_mobile": 74,
+        "image_mt": 20,
+        "image_mt_mobile": 20,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 16,
+        "author_size_mobile": 15,
+        "author_height": 130,
+        "author_mt": 20,
+        "author_mt_mobile": 20,
+        "job_title_custom": false,
+        "job_title_font": "josefin_sans_n4",
+        "job_title_size": 13,
+        "job_title_size_mobile": 12,
+        "job_title_height": 130,
+        "job_title_mt": 4,
+        "job_title_mt_mobile": 4,
+        "arrow_size": 48,
+        "arrow_size_mobile": 38,
+        "arrow_icon_size": 10,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "dots_size": 8,
+        "dots_size_mobile": 8,
+        "dots_mt": 32,
+        "dots_mt_mobile": 24,
+        "dots_show_desktop": true,
+        "dots_show_mobile": true,
+        "stars_color": "#000000",
+        "text_color": "#000000",
+        "author_color": "#000000",
+        "job_title_color": "#7b7b7b",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#f5f5f5",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -501,6 +664,7 @@
     "promo-grid-1",
     "rich-text",
     "text_and_image_gmrXBT",
-    "ss_testimonial_33_eBHGBr"
+    "ss_testimonial_33_eBHGBr",
+    "ss_testimonials_2_7WdEKP"
   ]
 }
