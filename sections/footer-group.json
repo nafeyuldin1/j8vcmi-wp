@@ -61,27 +61,27 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "menu_VtDMM3": {
-          "type": "menu",
-          "settings": {
-            "show_footer_title": true,
-            "menu": "policys",
-            "container_width": 25
-          }
-        },
         "menu-1": {
           "type": "menu",
           "settings": {
             "show_footer_title": true,
-            "menu": "main-menu",
+            "menu": "service",
             "container_width": 20
+          }
+        },
+        "menu_VtDMM3": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "hoofdmenu",
+            "container_width": 25
           }
         },
         "menu-2": {
           "type": "menu",
           "settings": {
             "show_footer_title": false,
-            "menu": "footer",
+            "menu": "customer-account-main-menu",
             "container_width": 20
           }
         },
@@ -96,8 +96,8 @@
         }
       },
       "block_order": [
-        "menu_VtDMM3",
         "menu-1",
+        "menu_VtDMM3",
         "menu-2",
         "newsletter"
       ],
