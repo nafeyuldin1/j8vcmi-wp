@@ -81,7 +81,7 @@
           "type": "menu",
           "settings": {
             "show_footer_title": false,
-            "menu": "customer-account-main-menu",
+            "menu": "footer",
             "container_width": 20
           }
         },
